@@ -1,5 +1,5 @@
 //
-// Created by qawbecrdtey on 2018-12-20.
+// Created by A BCDe on 2018-12-20.
 //
 
 #ifndef SEGMENT_TREE_SEGMENTTREE_H
